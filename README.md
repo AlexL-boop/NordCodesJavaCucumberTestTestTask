@@ -1,5 +1,5 @@
 # NordCodesJavaCucumberTestTestTask
-Тестовое задание для компании NordCodes
+Тестовое задание для компании NordCodes.
 
 Стек
 - Java 17
