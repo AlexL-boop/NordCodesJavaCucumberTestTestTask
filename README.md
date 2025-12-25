@@ -12,9 +12,11 @@
 - java -Dsecret=A94F2C7D8E1B4A6F9C3D2E5B8A7F1C0D -Dmock=http://localhost:8888/ -jar internal-0.0.1-SNAPSHOT.jar
 
 Описание итогого результата
+- написано 16 автоматических тестов с cucumber
 - нет Undefined Step
 - нет Compilation failure
 - все сценарии PASSED
+- код тестов краткий и читаемый
 
   
 Дальнейшие возможные шаги по улучшению тестов, пример.
